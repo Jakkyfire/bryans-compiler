@@ -1,2 +1,2 @@
 # bryans-compiler
-here this is bryans compiler compiler in html code with no limit
+here this is bryans compiler. Code in html with no limit
